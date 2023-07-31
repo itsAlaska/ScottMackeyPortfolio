@@ -1,6 +1,6 @@
 source "https://rubygems.org"
 
 gem "jekyll", "~> 3.7"
-gem "minimal-mistakes-jekyll", "~> 4.25"  # Update the version requirement to an available version
+gem "minimal-mistakes-jekyll"
 gem 'kramdown-parser-gfm'
 gem 'webrick'
