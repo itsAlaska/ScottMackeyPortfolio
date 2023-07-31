@@ -87,10 +87,16 @@ PLATFORMS
   x64-mingw-ucrt
 
 DEPENDENCIES
+  faraday (~> 2.7, >= 2.7.10)
   jekyll (~> 3.7)
+  jekyll-feed (~> 0.17.0)
+  kramdown (~> 2.4)
   kramdown-parser-gfm
-  minimal-mistakes-jekyll
-  webrick
+  minimal-mistakes-jekyll (~> 4.24)
+  public_suffix (~> 5.0, >= 5.0.3)
+  rexml (~> 3.2, >= 3.2.6)
+  rouge (~> 3.3)
+  webrick (~> 1.8, >= 1.8.1)
 
 BUNDLED WITH
    2.4.17
