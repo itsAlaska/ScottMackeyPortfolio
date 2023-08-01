@@ -6,20 +6,17 @@ author_profile: true
 ---
 
 <h2><u>Technical Skills</u></h2>
-<h3>Game Development</h3>
-*Unity* : Proficient in using Unity game engine to create 2D and 3D games, implementing gameplay mechanics, UI/UX design, and optimizing performance.
+<h3>Game Development Engine</h3>
+Unity
 
 <h3>Programming Languages</h3>
-*C#* : Strong command over C# programming language, used for scripting game logic and creating custom tools within Unity.
+C#, Python, JavaScript
 
-*Python* : Skilled in Python programming language, used for various scripting tasks and automation in game development projects.
+<h3>Technologies</h3>
+Mirror, Phaser, HTML, CSS, React, Bootstrap, Node.js, Express, MongoDB, Mongoose, PostgreSQL, Django
 
-*JavaScript* : Proficient in JavaScript for web-based game development and interactive elements.
-
-<h3>Tools and Technologies</h3>
-*Version Control (Git)* : Experience using Git for collaborative game development, version control, and team collaboration.
-
-*Game Development Frameworks* : Familiarity with game development frameworks and libraries, such as Mirror and Phaser.
+<h3>Tools</h3>
+Git, Git Workflow, itch.io, Postman
 
 <h2><u>Transferable Skills</u></h2>
 <h3>Creativity and Artistry</h3>
