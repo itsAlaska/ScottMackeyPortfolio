@@ -9,9 +9,9 @@ author_profile: true
 <h3>Game Development</h3>
 *Unity* : Proficient in using Unity game engine to create 2D and 3D games, implementing gameplay mechanics, UI/UX design, and optimizing performance.
 
+<h3>Programming Languages</h3>
 *C#* : Strong command over C# programming language, used for scripting game logic and creating custom tools within Unity.
 
-<h3>Programming Languages</h3>
 *Python* : Skilled in Python programming language, used for various scripting tasks and automation in game development projects.
 
 *JavaScript* : Proficient in JavaScript for web-based game development and interactive elements.
