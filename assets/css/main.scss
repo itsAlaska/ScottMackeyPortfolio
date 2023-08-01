@@ -1,0 +1,14 @@
+@charset "utf-8";
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
+
+h1.hero__title {
+  font-family: 'Your Selected Font', sans-serif;
+}
+
+
+  .custom-bold {
+    font-weight: bold;
+    font-family: 'Borel', cursive;
+  }
